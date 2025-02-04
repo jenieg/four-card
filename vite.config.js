@@ -7,7 +7,5 @@ export default defineConfig({
   plugins: [
     react(),
     tailwindcss(),
-  ],
-  base: '/four-card'
-  
+  ]
 })
