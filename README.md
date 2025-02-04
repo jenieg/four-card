@@ -5,5 +5,5 @@
     <img alt="Tailwind Badge" src="https://img.shields.io/static/v1?label=|&message=TAILWIND&color=5a5a5a&style=flat&logo=tailwindcss"/>
 </p>
 
-![Screenshot of Project](./image.png)
+![Screenshot of Project](./public/image.png)
 
